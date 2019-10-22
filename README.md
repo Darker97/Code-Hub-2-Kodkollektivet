@@ -5,5 +5,5 @@ These are the slides of the Presentation I hold for the second Code Hub at the L
 [Slides](https://github.com/Darker97/Code-Hub-2-Kodkollektivet/blob/master/Kodekolektivet%20-%20Code%20Hub%202.pdf)
 
 The recording of the Presentation:
-// TODO
+[Youtube](https://youtu.be/ZDP8iBRd4Jc)
 
